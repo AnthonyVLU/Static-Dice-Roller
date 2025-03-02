@@ -1,5 +1,5 @@
 //Variables
-const nodeURL = "http://localhost:3000";
+const nodeURL = "https://node-js-dice-roller-a8gkafgjgdcsg7cm.canadacentral-01.azurewebsites.net";
 const results = [0, 0, 0, 0, 0, 0];
 const resultTexts = new Array(6);
 let dieImage;
